@@ -1,0 +1,9 @@
+[package]
+name = "simple-executor"
+version = "0.1.0"
+authors = ["gnzlbg <gonzalobg88@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+crossbeam-channel = "0.3"
+cfg-if = "0.1"
